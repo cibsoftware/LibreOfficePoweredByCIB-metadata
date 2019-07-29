@@ -1,0 +1,202 @@
+# This repository adheres to the publiccode.yml standard by including this 
+# metadata file that makes public software easily discoverable.
+# More info at https://github.com/italia/publiccode.yml
+
+publiccodeYmlVersion: '0.2'
+name: LibreOffice powered by CIB
+releaseDate: '2019-07-21'
+url: >-
+  https://gerrit.libreoffice.org/plugins/gitiles/core/+/refs/heads/distro/cib/libreoffice-6-1
+applicationSuite: LibreOffice powered by CIB
+isBasedOn: 'http://svn.services.openoffice.org/ooo/trunk'
+landingURL: 'https://libreoffice.cib.de/'
+developmentStatus: stable
+softwareType: standalone/desktop
+roadmap: 'https://wiki.documentfoundation.org/ReleasePlan'
+platforms:
+  - windows
+  - mac
+  - linux
+  - android
+categories:
+  - office
+  - productivity-suite
+  - budgeting
+  - billing-and-invoicing
+  - collaboration
+  - document-management
+  - financial-reporting
+logo: imgs/LibreOfficePoweredByCIB.svg
+softwareVersion: 6.1.7.2-22
+maintenance:
+  type: internal
+  contacts:
+    - name: LibreOffice powered by CIB development team
+      email: libreoffice@cib.de
+      phone: +49 (0)89 143 60-111
+      affiliation: CIB software GmbH
+legal:
+  license: LGPL-3.0-or-later AND MPL-2.0+
+  repoOwner: CIB software GmbH
+intendedAudience:
+  scope:
+    - culture
+    - defence
+    - education
+    - government
+    - healthcare
+    - local-authorities
+    - justice
+localisation:
+  localisationReady: true
+  availableLanguages:
+    - af
+    - sq
+    - am
+    - ar
+    - as
+    - ast
+    - eu
+    - be
+    - bn
+    - bn-IN
+    - bs
+    - br
+    - brx
+    - bg
+    - my
+    - ca
+    - ca-valencia
+    - zh
+    - hr
+    - cs
+    - da
+    - dgo
+    - nl
+    - dz
+    - en
+    - en-GB
+    - en-US
+    - en-ZA
+    - eo
+    - et
+    - fi
+    - fr
+    - fy
+    - gl
+    - ka
+    - de
+    - el
+    - gu
+    - gug
+    - he
+    - hi
+    - hu
+    - is
+    - id
+    - ga
+    - it
+    - ja
+    - kab
+    - kn
+    - ks
+    - kk
+    - kok
+    - krm-Latn
+    - km
+    - rw
+    - ko
+    - lo
+    - lv
+    - lt
+    - dsb
+    - lb
+    - mk
+    - mai
+    - ml
+    - mni
+    - mr
+    - mn
+    - nr
+    - ne
+    - nso
+    - nb
+    - nn
+    - oc
+    - or
+    - om
+    - pa
+    - pa-IN
+    - fa
+    - pl
+    - pt
+    - pt-BR
+    - ro
+    - ru
+    - gd
+    - sa-IN
+    - sat
+    - sr
+    - sr-Latn
+    - sid
+    - sd
+    - si
+    - sk
+    - sl
+    - st
+    - es
+    - sw-TZ
+    - sw
+    - ss
+    - sv
+    - tg
+    - ta
+    - tt
+    - te
+    - th
+    - bo
+    - ts
+    - tn
+    - tr
+    - ug
+    - uk
+    - hsb
+    - uz
+    - ve
+    - vec
+    - vi
+    - cy
+    - xh
+    - zu
+    - zh-CN
+    - zh-TW
+it:
+  countryExtensionVersion: '0.2'
+  conforme:
+    modelloInteroperabilita: true
+    gdpr: true
+    misureMinimeSicurezza: true
+description:
+  en:
+    localisedName: LibreOffice powered by CIB
+    genericName: LibreOffice powered by CIB
+    shortDescription: >-
+      LibreOffice powered by CIB is a complete desktop productivity solution for
+      companies and organizations of all sizes willing to deploy LibreOffice.
+    longDescription: " ** LibreOffice powered by CIB** product range is based on the following products: \n\n- **LibreOffice powered by CIB for Business**, providing  online support from a professional team, incremental updates and backport of security fixes for 18 months. The product is a business  optimized version of LibreOffice, focused on the basic deployments  issues of small and medium size organizations.\n- **LibreOffice powered by CIB LTS**  (Long Term Support), providing professional support from a team of  developers, incremental updates and backport of security fixes for 36  months. The product is focused on the needs of large organizations  deploying LibreOffice as the cornerstone of their desktop productivity,  which has to be integrated with third party applications and  personalized according to specific user or business requirements.\n\n** LibreOffice powered by CIB** product range is immediately available from CIB. For additional information:\_[libreoffice.cib.de](http://libreoffice.cib.de/). \n"
+    documentation: 'https://help.libreoffice.org'
+    apiDocumentation: 'https://api.libreoffice.org/'
+    features:
+      - Text Documents
+      - Spreadsheets
+      - Presentations
+      - Drawings
+      - Databases
+      - Formula Editor
+      - Charts
+      - Templates
+      - Extensions
+      - Macros
+    screenshots:
+      - imgs/startcenter.png
+      - imgs/writer.png
