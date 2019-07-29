@@ -12,7 +12,6 @@ isBasedOn: 'http://svn.services.openoffice.org/ooo/trunk'
 landingURL: 'https://libreoffice.cib.de/'
 developmentStatus: stable
 softwareType: standalone/desktop
-roadmap: 'https://wiki.documentfoundation.org/ReleasePlan'
 platforms:
   - windows
   - mac
@@ -184,8 +183,6 @@ description:
       LibreOffice powered by CIB is a complete desktop productivity solution for
       companies and organizations of all sizes willing to deploy LibreOffice.
     longDescription: " ** LibreOffice powered by CIB** product range is based on the following products: \n\n- **LibreOffice powered by CIB for Business**, providing  online support from a professional team, incremental updates and backport of security fixes for 18 months. The product is a business  optimized version of LibreOffice, focused on the basic deployments  issues of small and medium size organizations.\n- **LibreOffice powered by CIB LTS**  (Long Term Support), providing professional support from a team of  developers, incremental updates and backport of security fixes for 36  months. The product is focused on the needs of large organizations  deploying LibreOffice as the cornerstone of their desktop productivity,  which has to be integrated with third party applications and  personalized according to specific user or business requirements.\n\n** LibreOffice powered by CIB** product range is immediately available from CIB. For additional information:\_[libreoffice.cib.de](http://libreoffice.cib.de/). \n"
-    documentation: 'https://help.libreoffice.org'
-    apiDocumentation: 'https://api.libreoffice.org/'
     features:
       - Text Documents
       - Spreadsheets
