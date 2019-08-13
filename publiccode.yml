@@ -26,7 +26,7 @@ categories:
   - document-management
   - financial-reporting
 logo: imgs/LibreOfficePoweredByCIB.svg
-softwareVersion: 6.1.7.2-22
+softwareVersion: 6.1.7.2
 maintenance:
   type: internal
   contacts:
@@ -49,126 +49,14 @@ intendedAudience:
 localisation:
   localisationReady: true
   availableLanguages:
-    - af
-    - sq
-    - am
-    - ar
-    - as
-    - ast
-    - eu
-    - be
-    - bn
-    - bn-IN
-    - bs
-    - br
-    - brx
-    - bg
-    - my
-    - ca
-    - ca-valencia
-    - zh
-    - hr
-    - cs
-    - da
-    - dgo
-    - nl
-    - dz
+    - es
     - en
     - en-GB
     - en-US
-    - en-ZA
-    - eo
-    - et
-    - fi
-    - fr
-    - fy
-    - gl
-    - ka
     - de
-    - el
-    - gu
-    - gug
-    - he
-    - hi
-    - hu
-    - is
-    - id
-    - ga
+    - fr
     - it
-    - ja
-    - kab
-    - kn
-    - ks
-    - kk
-    - kok
-    - krm-Latn
-    - km
-    - rw
-    - ko
-    - lo
-    - lv
-    - lt
-    - dsb
-    - lb
-    - mk
-    - mai
-    - ml
-    - mni
-    - mr
-    - mn
-    - nr
-    - ne
-    - nso
-    - nb
-    - nn
-    - oc
-    - or
-    - om
-    - pa
-    - pa-IN
-    - fa
-    - pl
-    - pt
-    - pt-BR
-    - ro
     - ru
-    - gd
-    - sa-IN
-    - sat
-    - sr
-    - sr-Latn
-    - sid
-    - sd
-    - si
-    - sk
-    - sl
-    - st
-    - es
-    - sw-TZ
-    - sw
-    - ss
-    - sv
-    - tg
-    - ta
-    - tt
-    - te
-    - th
-    - bo
-    - ts
-    - tn
-    - tr
-    - ug
-    - uk
-    - hsb
-    - uz
-    - ve
-    - vec
-    - vi
-    - cy
-    - xh
-    - zu
-    - zh-CN
-    - zh-TW
 it:
   countryExtensionVersion: '0.2'
   conforme:
