@@ -14,9 +14,7 @@ developmentStatus: stable
 softwareType: standalone/desktop
 platforms:
   - windows
-  - mac
   - linux
-  - android
 categories:
   - office
   - productivity-suite
